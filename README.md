@@ -9,7 +9,7 @@
 
   <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
     <label style="font-weight: bold; font-size: 1em;">CSS</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="margin-top: 10px; width: 60px; height: 60px; border-  radius: 10px;">
   </div>
 
   <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
