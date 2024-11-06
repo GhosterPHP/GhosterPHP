@@ -41,7 +41,7 @@
   </div>
 
   <details>
-    <summary><samp><b>GitHub Stats</b></samp></summary>
+<samp><b>GitHub Stats</b></samp>
     <h2></h2><br>
     <!-- Contact Me -->
     <p align="center">
