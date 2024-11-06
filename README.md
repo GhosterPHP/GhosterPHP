@@ -1,35 +1,91 @@
-# Lenguajes y Tecnologías
+<div align="justify">
+  <img align="center" width="100%" src="">
+  
+  <!-- Profile -->
+  <p align="center">
+    <samp>
+      <br>
+      <h1>GhosterPHP</h1>
+      <br>
+    </samp>
+  </p>
+  <hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 600px; margin: 0 auto;">
+  <br>
 
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">HTML</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
+  <div align="center">
+    <samp><b>[ Sobre mí ]</b></samp>
+    <br>
+    <samp>
+      Hola
+    </samp>
+    <br><br>
+    <samp><b>[ Tecnologías de mercado ]</b></samp>
+    <br>
+    <div align="center">
+      <img src="https://img.shields.io/badge/html-00000?style=for-the-badge&logo=html&logoColor=white" alt="Html">
+      <img src="https://img.shields.io/badge/css-4287f5?style=for-the-badge&logo=css&logoColor=white" alt="Css">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Astro-8442f5?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </div>
+    <br><br>
+    <samp><b>[ Hobbies ]</b></samp>
+    <br>
+    <div align="center">
+      <h2>Nothing Yet</h2>
+    </div>
+    <br><br>
   </div>
 
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">CSS</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
-  </div>
-
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">JavaScript</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
-  </div>
-
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">PHP</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
-  </div>
-
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">Astro</label>
-    <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="Astro" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
-  </div>
-
-  <div style="border-radius: 10px; border: 1px solid #ccc; padding: 10px; background: white; text-align: center; width: 80px;">
-    <label style="font-weight: bold; font-size: 1em;">Tailwind CSS</label>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" style="margin-top: 10px; width: 60px; height: 60px; border-radius: 10px;">
-  </div>
-
+  <details>
+    <summary><samp><b>GitHub Stats</b></samp></summary>
+    <h2></h2><br>
+    <!-- Contact Me -->
+    <p align="center">
+      <samp>
+        Correo electrónico [<a href="mailto:enriquehz2110@gmail.com">e-mail</a>]
+      </samp>
+    </p>
+    <h2></h2><br>
+    <!-- Profile Views Badge -->
+    <p align="center">
+      <samp>
+        <a href="#--------">
+          <img src="https://komarev.com/ghpvc/?username=GhosterPHP&label=Profile+Views&color=grey" alt="profile views">
+        </a>
+      </samp>
+    </p>
+    <!-- Github Trophy -->
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=GhosterPHP&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <!-- Github Stats -->
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GhosterPHP8&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord">
+            </a>
+          </td>
+          <td>
+            <a href="#--------">
+              <img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhosterPHP&layout=compact&line_height=21&hide_border=true&theme=nord">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
 </div>
