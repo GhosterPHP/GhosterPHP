@@ -40,7 +40,6 @@
     <br><br>
   </div>
 
-  <details>
 <samp><b>GitHub Stats</b></samp>
     <h2></h2><br>
     <!-- Contact Me -->
@@ -87,5 +86,4 @@
         </tr>
       </table>
     </div>
-  </details>
 </div>
