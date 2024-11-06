@@ -17,7 +17,7 @@
     <samp><b>[ Sobre mí ]</b></samp>
     <br>
     <samp>
-      Hola
+      Hola soy Ghoster iniciando como desarollador Frontend utilizando Astro, TailwindCss, entre otros.
     </samp>
     <br><br>
     <samp><b>[ Tecnologías de mercado ]</b></samp>
@@ -35,12 +35,14 @@
     <samp><b>[ Hobbies ]</b></samp>
     <br>
     <div align="center">
-      <h2>Nothing Yet</h2>
+      <h2>Escuchar Musica</h2>
+      <h2>Jugar Videojuegos</h2>
+      <h2>Aprender nuevas teconologias</h2>
     </div>
     <br><br>
   </div>
 
-<samp><b>GitHub Stats</b></samp>
+<center><samp><b>Stadisticas de GitHub</b></samp></center>
     <h2></h2><br>
     <!-- Contact Me -->
     <p align="center">
