@@ -1,5 +1,5 @@
 <div align="justify">
-  <img align="center" width="100%" src="https://ibb.co/KGgk8j4?ex=672c2407&is=672ad287&hm=96496c6acb91e27c8c4a77adae38c6524920ab1882594e368fc09708bce91233&=&format=webp&quality=lossless&width=1178&height=662">
+  <img align="center" width="100%" src="https://i.ibb.co/sP4GXvx/gityuab.png?ex=672c2407&is=672ad287&hm=96496c6acb91e27c8c4a77adae38c6524920ab1882594e368fc09708bce91233&=&format=webp&quality=lossless&width=1178&height=662">
   
   <!-- Profile -->
   <p align="center">
